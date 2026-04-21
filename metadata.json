@@ -1,0 +1,8 @@
+{
+  "name": "Garage Scan App",
+  "description": "Quản lý gara ô tô bằng cách quét biển số để nhận dạng xe.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
