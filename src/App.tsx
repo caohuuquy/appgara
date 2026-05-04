@@ -353,7 +353,7 @@ export default function App() {
             >
               <Camera size={20} />
             </button>
-            <span className="text-[9px] text-blue-600 absolute -bottom-2 w-full text-center font-bold mt-1">
+            <span className="hidden text-[9px] text-blue-600 absolute -bottom-2 w-full text-center font-bold mt-1">
               SCAN
             </span>
           </div>
